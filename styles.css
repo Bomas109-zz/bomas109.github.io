@@ -1,0 +1,43 @@
+body
+{
+  background:#494f5c;
+  font-family:Consolas,Monospace,Courier;
+  color:#fff;
+
+  margin: 25px 50px 75px 100px;
+}
+
+.page-contents
+{
+  background-color: rgb(255,255,255,0.15);
+
+}
+
+.header h1
+{
+  text-align: center;
+}
+
+.navbar
+{
+  list-style-type: none;
+  text-align: center;
+}
+
+.navbar li
+{
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.navbar a
+{
+  color: gray;
+}
+
+.footer
+{
+  color: white;
+  text-align: center;
+}
